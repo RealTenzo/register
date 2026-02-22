@@ -1,0 +1,10 @@
+{
+    "domain": "is-a.dev",
+    "subdomain": "txc-executor",
+    "owner": {
+        "email": "tenzoaoki@gmail.com"
+    },
+    "record": {
+        "A": ["76.13.150.47"]
+    }
+}
